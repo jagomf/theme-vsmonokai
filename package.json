@@ -1,0 +1,25 @@
+{
+    "name": "vsmonokai",
+    "displayName": "vsmonokai",
+    "author": {
+        "name": "Jago",
+        "url": "https://github.com/jagomf"
+    },
+    "description": "Monokai text colors on top of VSCode backgrounds",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VS Monokai",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VS-Monokai-color-theme.json"
+            }
+        ]
+    }
+}
