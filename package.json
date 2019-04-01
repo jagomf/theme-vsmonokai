@@ -9,7 +9,7 @@
     "icon": "img/theme-vsmonokai.png",
     "keywords": ["monokai", "vsdark"],
     "publisher": "lunadevel",
-    "version": "0.1.5",
+    "version": "0.1.6",
     "repository": {
         "type": "git",
         "url": "https://bitbucket.org/jagomf/theme-vsmonokai.git"
