@@ -9,10 +9,10 @@
     "icon": "img/theme-vsmonokai.png",
     "keywords": ["monokai", "vsdark", "vsmonokai"],
     "publisher": "lunadevel",
-    "version": "0.1.8",
+    "version": "0.1.9",
     "repository": {
         "type": "git",
-        "url": "https://bitbucket.org/jagomf/theme-vsmonokai.git"
+        "url": "https://github.com/jagomf/theme-vsmonokai.git"
     },
     "scripts": {
         "login": "vsce login lunadevel",
