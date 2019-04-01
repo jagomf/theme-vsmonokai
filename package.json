@@ -7,9 +7,9 @@
     },
     "description": "Monokai text colors on top of VSCode backgrounds",
     "icon": "img/theme-vsmonokai.png",
-    "keywords": ["monokai", "vsdark"],
+    "keywords": ["monokai", "vsdark", "vsmonokai"],
     "publisher": "lunadevel",
-    "version": "0.1.6",
+    "version": "0.1.7",
     "repository": {
         "type": "git",
         "url": "https://bitbucket.org/jagomf/theme-vsmonokai.git"
