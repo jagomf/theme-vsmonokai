@@ -1,5 +1,4 @@
-# VS Monokai
-## VSCode Dark + Monokai
-Monokai text colors on top of VSCode backgrounds.
+# Monokai + VS Dark
+Monokai editor colors on top of VSCode Dark backgrounds.
 
 ![](img/theme-vsmonokai.png)
